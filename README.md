@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinkrr02" alt="sachinkrr02" /></a> </p>
 
-- 🔭 I’m currently working on [Neeti](https://github.com/sachinkrr02/neeti)
+- 🔭 I’m currently working on my project MoneyMate
 
-- 🌱 I’m currently learning **Flutter,Nodejs,Database like MongoDb and SQL**
+- 🌱 I’m currently learning **Flutter, Nodejs, MongoDb**
 
-- 👯 I’m looking to collaborate on [Stoxg](https://github.com/kruticode/STOXG_flutter)
+- 👯 I’m looking to collaborate on for my project MoneyMate.
 
 - 📫 How to reach me **sachinchhonkar2000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1j1HWdTTucsnOORwLnZw0BjcQJEccn6wn/view?usp=drive_link](https://drive.google.com/file/d/1j1HWdTTucsnOORwLnZw0BjcQJEccn6wn/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1X52QUEBX8kwKKdMJ4uhA-vcx9womd3YY/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
